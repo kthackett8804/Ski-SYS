@@ -1,2 +1,4 @@
 # Ski-SYS
-I implemented a skiing system where users can login and view skiing times based on a variety of factors e.g. age, ability etc.. and also a variety of other things. Made in python.
+I implemented a skiing system where users can login as a teacher CREDS(mrwalsh5:password5).
+Then proceeds to main menu where the user has the option to add new student details or look at groups where the users are sorted based on age,abilitygender etc..
+System has been created in python.
